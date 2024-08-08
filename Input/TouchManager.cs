@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace Machete.InputSystem
+namespace Dev.InputSystem
 {
     public class TouchManager : Manager<TouchManager>
     {
